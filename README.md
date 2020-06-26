@@ -1,3 +1,8 @@
+# Issues
+The original repository deleted(messing with terminal commands gone wrong) so my commits are gone.
+When rendering to the html file, the array isn't being read as a string (eval)
+
+
 # Team-Generator
 
 # Unit 10 OOP Homework: Template Engine - Employee Summary
